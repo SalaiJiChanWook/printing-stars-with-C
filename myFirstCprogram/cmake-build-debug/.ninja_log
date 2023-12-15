@@ -1,0 +1,6 @@
+# ninja log v5
+0	71	7237999196917239	CMakeFiles/myFirstCprogram.dir/newLesson.c.obj	8025a1bab062a8a2
+73	189	7237999198055007	myFirstCprogram.exe	deb1919acf807115
+1	158	7238000043504968	build.ninja	cde4c871ee8d873e
+0	59	7238000044964782	CMakeFiles/myFirstCprogram.dir/new2Lesson.c.obj	963658146dcf9294
+60	146	7238000045780997	myFirstCprogram.exe	d381297a74155a8d
