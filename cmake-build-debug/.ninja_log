@@ -1,0 +1,5 @@
+# ninja log v5
+2	66	7238252723345422	CMakeFiles/assignment.dir/main.c.obj	ed53fb9089fd2d73
+71	149	7239660197440887	assignment.exe	63a65c0c0df4e501
+1	190	7239661524291916	build.ninja	58bbb9b8c03ab426
+2	70	7239660196698332	CMakeFiles/assignment.dir/hw.c.obj	ca9033f658aff76e
